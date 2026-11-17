@@ -1,0 +1,55 @@
+export const POSTS=[
+ {slug:"q3-2026-market-report",cat:"Market reports",title:"Q3 2026 market report: prices up, sales a little slower",ex:"Asking prices rose 1.2% in the third quarter and 5.7% over the year. Homes are taking slightly longer to find a buyer, and the gap between Port Aubel and the rest of the country keeps narrowing.",au:0,date:"12 November 2026",min:6,img:11,body:[
+  ["lead","The national median asking price reached SC 4,240 per square metre in the third quarter of 2026, up 1.2% on the quarter and 5.7% on a year earlier. Port Aubel rose more slowly, to SC 6,800 per m², and is now 60% above the national figure, down from 65% two years ago."],
+  ["chart"],
+  ["p","Most of the growth came from outside the capital. Buyers priced out of Port Aubel are looking at the Lisle Coast and, increasingly, at the Kestrel Isles, where fibre broadband reached every home in 2025."],
+  ["h","Selling takes a little longer"],
+  ["p","The median time from listing to an accepted offer was 23 days, two days longer than in the second quarter. Sellers who priced within 5% of our valuation found a buyer in 17 days on average; those who priced more than 10% above it waited 58 days, and most then reduced the price."],
+  ["stats",[["SC 4,240","national asking price per m²"],["+5.7%","year on year"],["23 days","median time to offer"],["98.6%","of asking price achieved"]]],
+  ["h","By region"],
+  ["table",["Region","SC per m²","Gross yield","Listings"],[["Port Aubel","6,800","4.1%","1,904"],["Lisle Coast","5,200","4.6%","1,122"],["Kestrel Isles","4,400","5.0%","357"],["Vey Highlands","3,100","5.4%","688"],["Marrow Valley","2,600","5.9%","741"]]],
+  ["h","What we expect in Q4"],
+  ["p","Winter is usually quiet in the Vey Highlands outside the ski villages, and the Lisle Coast slows once the season ends. We expect national prices to be flat to slightly up by the end of the year, with Port Aubel and the islands doing best."]]},
+ {slug:"kestrel-isles-prices",cat:"Regions",title:"Why Kestrel Isles prices are rising faster than the capital's",ex:"Island prices are up 7.8% in a year, more than twice Port Aubel's rise. Fibre, a better ferry timetable and a shortage of homes explain most of it.",au:3,date:"4 November 2026",min:4,img:"q22",body:[
+  ["lead","Two years ago, a three-bedroom house on the Fennick front sold for about SC 410,000. The same house would list today at around SC 455,000. Asking prices on the Kestrel Isles are up 7.8% in a year, against 3.2% in Port Aubel."],
+  ["h","Three reasons"],
+  ["ul",["Fibre broadband reached every home on all three islands in 2025. Remote workers who used to rent for the summer are now buying.","The ferry now runs every hour from 06:00 to 22:00, up from every two hours. A Port Aubel commute takes 40 minutes on the water.","There are only 357 homes for sale across the islands, and planning rules limit new building to Harbour Reach in Fennick."]],
+  ["quote","Half the buyers I met this year came off the ferry with a laptop bag. Ten years ago it was all holiday homes.","Oskar Lunde, Fennick office"],
+  ["h","Will it last?"],
+  ["p","Supply is the main constraint. Harbour Reach will add 40 homes by 2028, which is not enough to change prices much. The bigger risk is the ferry: any cut to the timetable would hit prices quickly, since most buyers still work in the capital at least part of the week."]]},
+ {slug:"first-time-buyer-stamp-levy",cat:"Buying",title:"First-time buyers: how the stamp levy relief really works",ex:"First-time buyers pay no stamp levy on homes up to SC 400,000. Above that, the relief disappears entirely, which creates a sharp cliff edge worth knowing about.",au:5,date:"28 October 2026",min:5,img:26,body:[
+  ["lead","Stamp levy is charged in bands: nothing on the first SC 250,000, 2% on the part between 250,000 and 600,000, 4% up to 1.2 million and 6% above that. First-time buyers pay nothing at all on a home costing SC 400,000 or less."],
+  ["h","The cliff edge at SC 400,000"],
+  ["p","The relief is all or nothing. At SC 400,000, a first-time buyer pays no levy. At SC 400,001, they pay the full banded amount: SC 3,000. That makes homes just above the threshold poor value for first-time buyers, and sellers there often accept offers at exactly SC 400,000."],
+  ["table",["Price","Normal levy","First-time buyer"],[["SC 300,000","SC 1,000","SC 0"],["SC 380,000","SC 2,600","SC 0"],["SC 400,000","SC 3,000","SC 0"],["SC 450,000","SC 4,000","SC 4,000"],["SC 650,000","SC 9,000","SC 9,000"]]],
+  ["h","Who counts as a first-time buyer"],
+  ["ul",["Everyone buying must never have owned a home, in Solvenne or abroad.","You must live in the home as your main residence for at least two years.","Inherited shares in a family home count as ownership, even if you never lived there."]],
+  ["p","Every Lintel listing has a cost calculator with a first-time buyer option, so you can see the levy before you book a viewing."]]},
+ {slug:"renting-in-port-aubel",cat:"Renting",title:"Renting in Port Aubel: what SC 2,000 a month gets you",ex:"At the city's median of SC 26 per m², SC 2,000 buys about 77 m². Where you look changes that more than you might expect.",au:4,date:"21 October 2026",min:4,img:10,body:[
+  ["lead","The median rent in Port Aubel is SC 26 per square metre per month. At SC 2,000 a month, that works out at about 77 m²: a decent two-bedroom flat. But the range across districts is wide."],
+  ["table",["District","Typical rent per m²","SC 2,000 gets you"],[["Cathedral Hill","SC 31","65 m², one bedroom and a study"],["Old Harbour","SC 29","69 m², two small bedrooms"],["Saltmarket","SC 27","74 m², two bedrooms"],["Northdocks","SC 24","83 m², two bedrooms in a conversion"]]],
+  ["h","Before you move in"],
+  ["p","Budget for three months' rent plus one week up front: the first month, a two-month deposit, and a refundable holding fee. On a SC 2,000 flat that is about SC 6,460. Under the Tenancy Act 2019, an agent may not charge you anything else."],
+  ["quote","Northdocks is where we see the best value. The tram link opened in 2024 and rents haven't caught up yet.","Ada Morrow, Lettings Manager"]]},
+ {slug:"selling-with-damp",cat:"Selling",title:"Selling a home with damp? Tell buyers first",ex:"Most older homes in Solvenne have some damp. Hiding it rarely works, and buyers who find it during the survey often walk away or cut their offer by far more than the repair costs.",au:6,date:"14 October 2026",min:5,img:9,body:[
+  ["lead","I measure around 300 homes a year, and roughly a third of those built before 1950 have some damp. It is rarely serious. What causes problems is when buyers discover it late."],
+  ["h","Why disclosing early pays"],
+  ["p","When damp is in the listing, buyers price it in before they make an offer. When a surveyor finds it after an offer is accepted, buyers tend to ask for two or three times the cost of the repair, or pull out altogether. In our 2025 sales, homes that disclosed damp up front achieved 97.1% of asking price; homes where it was found later averaged 91.4%."],
+  ["h","What to do before you list"],
+  ["ul",["Get a specialist report. It costs SC 250–400 and turns a vague worry into a number.","Fix gutters and downpipes. Most damp in Solvenne's stone houses comes from water running down the outside.","Keep receipts for any past treatment; guarantees transfer to the buyer.","Ask us to mention it plainly in the listing. We write “damp in rear bedroom, specialist report available”, not “needs some TLC”."]],
+  ["quote","If you can't draw the house, you don't know it well enough to sell it. The same goes for its faults.","Lena Sorel, Surveyor and Valuer"]]},
+ {slug:"valuing-vineyard-estates",cat:"Regions",title:"Vineyard estates: valuing land you can't measure in square metres",ex:"A Marrow Valley estate is part house, part farm, part business. We value each separately, and the vines often matter more than the bedrooms.",au:2,date:"6 October 2026",min:6,img:"q15",body:[
+  ["lead","Price per square metre works well for flats in Port Aubel. It is almost useless for a Marrow Valley estate, where the house may be a third of the value and the rest is vines, buildings and a business."],
+  ["h","Three valuations in one"],
+  ["ul",["The house, valued like any other home in the area. In Saint-Lourde that is about SC 2,600 per m².","The vineyard, valued per hectare by grape variety, age of vines and slope. Mature Calvet vines on south-facing slopes fetch SC 180,000 to 240,000 per hectare.","The winery and equipment, valued on replacement cost, less wear."]],
+  ["stats",[["SC 180–240k","per hectare, mature Calvet vines"],["3 ha","typical family estate"],["8–12 months","typical time to sell"]]],
+  ["h","Timing matters"],
+  ["p","Estates sell best between the harvest and spring, when buyers can taste the new vintage and see the vines pruned. Listing in midsummer, when the vines are in full leaf but nothing can be tasted, tends to mean a longer wait."]]},
+ {slug:"heat-pumps-2028-rule",cat:"Renting",title:"Landlords: the 2028 energy rule and what an upgrade costs",ex:"From 2028, homes rated F or G cannot be newly let. Most of the homes affected can reach an E or better for less than landlords expect.",au:7,date:"29 September 2026",min:4,img:29,body:[
+  ["lead","From 1 January 2028, a home with an energy rating of F or G cannot be let to a new tenant in Solvenne. Existing tenancies can continue, but the next time the home is empty, it will need an E or better."],
+  ["h","Typical upgrade costs"],
+  ["table",["Work","Typical cost","Usual gain"],[["Loft insulation","SC 900–1,500","Half to one band"],["Secondary glazing","SC 2,500–4,000","Half a band"],["Air-source heat pump","SC 9,000–13,000","One to two bands"],["External wall insulation","SC 14,000–22,000","One to two bands"]]],
+  ["p","The Solvenne Energy Office pays grants of up to SC 5,000 towards a heat pump, and landlords can offset the rest against rental income over five years."],
+  ["h","Our advice"],
+  ["p","Get a fresh certificate first: about one in four of the F ratings we see were issued before 2015 and no longer reflect the home. A new certificate costs SC 140 and sometimes solves the problem on its own."]]}
+];

@@ -1,0 +1,7 @@
+export const REGIONS={
+  "port-aubel":{name:"Port Aubel",kind:"Capital & harbour",ppm:6800,rent:26,yield:4.1,count:1904,districts:["Old Harbour","Saltmarket","Cathedral Hill","Northdocks"],blurb:"The capital, built around a deep-water harbour. Stone merchant houses on Cathedral Hill, converted warehouses in Northdocks, and trams to every district.",map:[300,196]},
+  "lisle-coast":{name:"Lisle Coast",kind:"Beaches & clifftops",ppm:5200,rent:21,yield:4.6,count:1122,districts:["Merren Bay","Old Sennick","Calla Point"],blurb:"Sixty kilometres of west-facing coast. Fishing villages, surf beaches and clifftop villas, an hour from the capital by the coast railway.",map:[96,232]},
+  "vey-highlands":{name:"Vey Highlands",kind:"Mountains & lakes",ppm:3100,rent:15,yield:5.4,count:688,districts:["Harl","Ostrel","Tarn Road"],blurb:"Stone farmhouses, lake towns and the ski resort at Ostrel. The most land for the money anywhere in Solvenne.",map:[196,88]},
+  "marrow-valley":{name:"Marrow Valley",kind:"Vineyards & river towns",ppm:2600,rent:13,yield:5.9,count:741,districts:["Bresse","Saint-Lourde"],blurb:"Wine country along the river Marrow. Brick river towns, market squares and working vineyard estates.",map:[176,184]},
+  "kestrel-isles":{name:"Kestrel Isles",kind:"Island living",ppm:4400,rent:19,yield:5.0,count:357,districts:["Fennick","Little Kestrel"],blurb:"Three islands forty minutes off the east coast by ferry. Whitewashed cottages and a growing community of remote workers.",map:[360,252]}
+};
